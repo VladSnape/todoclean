@@ -1,7 +1,6 @@
 # todoclean
 
-A new Flutter project.
-
+todoclean , is and attemt to create for the first time a todo app in the clean architecture it is build on the clean architectured theory , using bloc as a state management 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
